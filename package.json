@@ -1,7 +1,6 @@
 {
   "name": "webpack",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.0",  
   "author": "Daniel Rodrigues",
   "license": "MIT",
   "private": true,
